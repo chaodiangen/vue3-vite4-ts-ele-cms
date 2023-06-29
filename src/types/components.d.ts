@@ -49,7 +49,6 @@ declare module "@vue/runtime-core" {
     ElTreeSelect: typeof import("element-plus/es")["ElTreeSelect"];
     ElUpload: typeof import("element-plus/es")["ElUpload"];
     FunnelChart: typeof import("./../views/dashboard/components/FunnelChart.vue")["default"];
-    GithubCorner: typeof import("./../components/GithubCorner/index.vue")["default"];
     Hamburger: typeof import("./../components/Hamburger/index.vue")["default"];
     IconSelect: typeof import("./../components/IconSelect/index.vue")["default"];
     IEpArrowDown: typeof import("~icons/ep/arrow-down")["default"];
